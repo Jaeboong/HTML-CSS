@@ -5,7 +5,8 @@ body {
 
   .main{
     color: darkblue;
-    font-size: 16px;
+    width: 700px;
+    font-size: 24px;
     font-weight: bold;
     text-decoration: none;
     margin-top: 15px;
@@ -32,7 +33,7 @@ body {
     
   }
 
-  t {
+  a {
     color: white;
     text-decoration: none;
     font-size: 18px;
@@ -56,6 +57,26 @@ body {
   }
 
   b{
-    margin-top: 0px;
+    margin-top: 10px;
     margin-left: 20px;
+  }
+
+  .plan{
+    margin-top: 20px;
+    width: 700px;
+    padding: auto;
+    text-align: center;
+    color: darkblue;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .title{
+    font-size: 40px;
+    color:rgb(18, 125, 224);
+  }
+
+  .script{
+    text-align: left;
+    padding-left: 20px;
   }
